@@ -1,0 +1,2 @@
+# ceegees_training
+git_familiarization
